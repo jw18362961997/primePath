@@ -144,3 +144,4 @@ if __name__ == '__main__':
     paths = purify(paths)
     print(len(paths))
     print(paths)
+	print("我被修改了")
